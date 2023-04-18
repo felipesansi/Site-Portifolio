@@ -104,3 +104,36 @@ p
     
 
 }
+@media screen and (max-width:400px){
+
+    .foto {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 178px;
+        height: 66vw;
+    }
+    
+    #btn_contato {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        width: 63%;
+        background-color: black;
+        color: antiquewhite;
+        cursor: pointer;
+    }
+    
+    #btn_corriculo {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        width: 76%;
+        height: 40px;
+        background-color: black;
+        color: antiquewhite;
+        text-decoration: none;
+        cursor: pointer;
+    }
+}
+    
