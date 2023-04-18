@@ -135,5 +135,15 @@ p
         text-decoration: none;
         cursor: pointer;
     }
+    .lado1 {
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: 704px;
+}
+    .lado2 {
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: 704px;
+}
 }
     
